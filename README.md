@@ -1,2 +1,2 @@
 # Wifi-Vuran-DDOS-Tool
-telegram @dedestur
+Hmm :D
