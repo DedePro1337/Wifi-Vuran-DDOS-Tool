@@ -18,5 +18,4 @@ for i in range(1, 100 * 1000):
   print(f" > Send: {i}", end='\r')
   time.sleep(sleep)
 
-#made by dede,style :D #base64 :)
-#bu programda bi takım kodlar gizlenmiştir bi akıllılık yapıp çalmanızı tavsiye etmem
+#slatians
